@@ -14,7 +14,7 @@
     "@tanstack/router-devtools": "^1.85.0",
     "drizzle": "^1.4.0",
     "drizzle-kit": "^0.28.1",
-    "drizzle-orm": "^0.36.4",
+    "drizzle-orm": "^0.43.1",
     "hono": "^4.6.12",
     "svix": "^1.42.0",
     "zod": "^3.23.8"
